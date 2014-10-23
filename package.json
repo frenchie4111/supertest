@@ -1,5 +1,5 @@
 {
-  "name": "supertest",
+  "name": "supertest-mlyons",
   "version": "0.14.0",
   "description": "Super-agent driven library for testing HTTP servers",
   "main": "index.js",
@@ -28,6 +28,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/visionmedia/supertest.git"
+    "url": "https://github.com/frenchie4111/supertest.git"
   }
 }
